@@ -26,6 +26,8 @@ Alat ini dirancang untuk fansubber yang ingin mempercepat proses terjemahan deng
 
 ## 🧰 Persiapan
 
+```git clone https://github.com/rafiq8k-moga/Gemini-TXT-Translator.git```
+
 ### 1. Mendapatkan API Key Gemini (Google AI Studio)
 
 1. Kunjungi: [Google AI Studio](https://aistudio.google.com/app/apikey)
