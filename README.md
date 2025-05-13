@@ -1,0 +1,1 @@
+# Gemini-TXT-Translator
